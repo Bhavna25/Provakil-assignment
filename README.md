@@ -7,20 +7,26 @@ There is a Venture Capital firm called Cueball Capital. Having lost a lot of mon
 Tech Stack
 - Programming Languages
     - Python 3.8
+
 Installation
 - Python must be installed on your system with versions 3.0 or above.
 
 Upgrade pip as:
 - python -m pip install --upgrade pip
+
 Setup virtual environment by:
 - pip install virtualenv env
 env\ Scripts\ activate
+
 Clone this repository using:
 https://github.com/Bhavna25/Provakil-assignment
+
 Install project requirements using:
 - pip install -r requirements.txt
+
 Run the file
 - python budget_violation.py
+
 Input:
 - Path of the budget.csv file
 - Path of the investment.csv file
