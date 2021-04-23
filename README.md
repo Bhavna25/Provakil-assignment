@@ -16,7 +16,7 @@ Setup virtual environment by:
 pip install virtualenv env
 env\ Scripts\ activate
 Clone this repository using:
-
+https://github.com/Bhavna25/Provakil-assignment
 Install project requirements using:
 pip install -r requirements.txt
 Run the file
